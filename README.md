@@ -44,4 +44,4 @@ A Streamlit web app was created to provide a user interface for predicting apple
 Deployment
 The web app was deployed on Streamlit Cloud.
 
-The deployed web app can be accessed here.
+The deployed web app can be accessed here - https://apple-quality--prediction.streamlit.app/
